@@ -16,7 +16,7 @@ Tutorial
 * [Meningkatkan Peforma Recyclerview dengan DiffUtil](https://veroanggra.medium.com/meningkatkan-peforma-recyclerview-dengan-diffutil-3392b7fdf358)
 
 <pre>
-<img src="https://github.com/veroanggra/NewsApplication/blob/master/screenshoot/image1.png" alt="image1" width="200" height="450"/>
+<img src="https://github.com/veroanggra/NewsApplication/blob/master/screenshot/image1.png" alt="image1" width="200" height="450"/>
 </pre>
 
 
